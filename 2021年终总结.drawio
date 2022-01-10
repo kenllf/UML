@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T08:27:40.499Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3880.400 QQBrowser/10.8.4554.400" version="15.8.3" etag="yo6NFC_GS4u3XqABWp4x" type="github"><diagram id="-rV86wrVir1E1fv2TtJx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T09:46:55.606Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3880.400 QQBrowser/10.8.4554.400" etag="kLglNDQKNP9_eUQg3XQ2" version="15.8.3" type="github">
+  <diagram id="-rV86wrVir1E1fv2TtJx" name="Page-1">
+    <mxGraphModel dx="925" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j1kuhgOz80whgSOS1jrv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j1kuhgOz80whgSOS1jrv-1" target="j1kuhgOz80whgSOS1jrv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-1" value="2021 年终总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j1kuhgOz80whgSOS1jrv-4" target="j1kuhgOz80whgSOS1jrv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j1kuhgOz80whgSOS1jrv-4" target="j1kuhgOz80whgSOS1jrv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j1kuhgOz80whgSOS1jrv-4" target="j1kuhgOz80whgSOS1jrv-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="150" />
+              <mxPoint x="460" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-4" value="参加的主要项目" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-8" value="F2L 移动门禁项目" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-10" value="V102 尚研家用智能平板" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-13" value="F210 佳都地铁闸机" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-160" width="20" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-16" value="1、MQTT 通讯功能搭建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-160" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-17" value="2、自动重连机制实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-130" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-18" value="3、住户数据接收保存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-100" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-19" value="4、住户房间信息接收保存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-70" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-20" value="5、通行信息上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-40" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-21" value="6、广告文件下载" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-10" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-22" value="7、设备运行日志上报" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="20" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="80" width="20" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-25" value="1、双网口实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="80" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-26" value="2、距离传感器调试、增加自动休眠唤醒功能" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-27" value="3、加密芯片功能开发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="140" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-28" value="4、光线传感器调试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="170" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-29" value="5、Zigbee、Wifi、MESH 等模块的调试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-31" value="1、客户接口适配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-32" value="2、国密芯片调试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
