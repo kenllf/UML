@@ -1,11 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-01-10T09:46:55.606Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3880.400 QQBrowser/10.8.4554.400" etag="kLglNDQKNP9_eUQg3XQ2" version="15.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-10T09:55:33.022Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3880.400 QQBrowser/10.8.4554.400" etag="TTHCCquYHKsGQlIdnUxn" version="15.8.3" type="github">
   <diagram id="-rV86wrVir1E1fv2TtJx" name="Page-1">
     <mxGraphModel dx="925" dy="1715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j1kuhgOz80whgSOS1jrv-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j1kuhgOz80whgSOS1jrv-1" target="j1kuhgOz80whgSOS1jrv-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="240" />
+              <mxPoint x="290" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j1kuhgOz80whgSOS1jrv-1" target="j1kuhgOz80whgSOS1jrv-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="240" />
+              <mxPoint x="290" y="445" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="j1kuhgOz80whgSOS1jrv-1" value="2021 年终总结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="210" width="120" height="60" as="geometry" />
@@ -81,11 +94,26 @@
         <mxCell id="j1kuhgOz80whgSOS1jrv-30" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="j1kuhgOz80whgSOS1jrv-31" value="1、客户接口适配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="j1kuhgOz80whgSOS1jrv-31" value="2、客户接口适配" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="290" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-32" value="3、国密芯片调试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="325" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-33" value="1、基本功能调试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="260" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="j1kuhgOz80whgSOS1jrv-32" value="2、国密芯片调试" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="290" width="110" height="20" as="geometry" />
+        <mxCell id="j1kuhgOz80whgSOS1jrv-34" value="4、以太网问题解决" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="620" y="360" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j1kuhgOz80whgSOS1jrv-35" target="j1kuhgOz80whgSOS1jrv-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-35" value="2022 年计划" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="415" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j1kuhgOz80whgSOS1jrv-37" value="&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;了解、熟悉前后端架构，选定架构，实现 IPC 后台。&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;实现 IPC 后台基本的预览、录像等功能。&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;熟悉协议，对接新功能" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="250" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
